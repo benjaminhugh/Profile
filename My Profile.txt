@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Profile</h1>
+
+<p>My name is Benjamin Brooks (s3786942, s3786942@student.rmit.edu.au), I was born in Sydney, Australia and currently live in Balmain East. My parents are multigenerational Australians with English, Irish and Italian ancestry. I completed my high school education in 2009, since then I have completed a Diploma of Financial Planning and am working towards a Bachelor of Business. I speak English but would love to learn another language at some point in the future (maybe a programming language). My interests include exercise, sports, philosophy, meditation and travel.</p>
+
+<h1>Interest in IT</h1>
+
+<p>My interest in IT is based on my current lack of technological knowledge. I want to be able to participate effectively and make use of advancing technologies. I am a Wealth Consultant at Westpac and use role specific programs, I can use basic programs like Word, Power Point etc. and use a number of social media platforms. I chose to study at RMIT as I want to pursue a career in finance, in particular financial analysis. Having a strong understanding of Information Technology will be very useful, as using data and presenting data will be a key function in finance.</p>
+
+<h1>Ideal Job</h1>
+
+<p>https://www.seek.com.au/job/39857420?searchrequesttoken=ec234109-df92-4e0d-ab62-98cf9ea578b7&type=promoted
+Investment Analyst/Fund Manager providing investment recommendations based on research and knowledge of micro/macroeconomic factors.
+The role would involve researching different businesses and economic trends with the goal of recommending either the sale or purchase of investment opportunities. Roles like this interest me as you can be directly compensated for your performance in the role and it involves continuous learning and understanding of the wider economy. The key skills include financial modelling, data analysis, accounting and numeracy and literacy skills. I personally think the ability to concentrate for long periods of time will be essential. Currently, these are all skills that I need to develop and I will need to build experience in junior roles. My plan is to complete my Bachelor’s degree with a Financial Planning major, then start a Certified Financial Analyst Program. In addition, as I am working for Westpac, I will be looking for internal opportunities to gain exposure to this type of role.</p>
+
+</body>
+</html>
